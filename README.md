@@ -52,21 +52,14 @@
 </div>
 
 <!-- Social icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-ashiqur-rahman-ashik/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" style="vertical-align: middle; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/Md.Ashiqur.Rahman.Ashik111" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="50" width="50" style="vertical-align: middle; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ashiqurrahmanashik111@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/mail--v1.png" alt="Email" height="50" width="50" style="vertical-align: middle; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
+## How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashiqur-rahman-ashik/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiqurrahmanashik111@gmail.com)
 
 
+
+---
 
 
 
