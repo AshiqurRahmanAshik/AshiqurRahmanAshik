@@ -49,12 +49,16 @@
 |-------------|-------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&theme=dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=AshiqurRahmanAshik&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqurRahmanAshik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
 
-
-
 ---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AshiqurRahmanAshik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
   <!-- Contract Information -->
 <!-- Social icons -->
-## Connect with me:
+## 📞Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashiqur-rahman-ashik/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiqurrahmanashik111@gmail.com)
