@@ -25,7 +25,7 @@
   <!-- Technology and Tools -->
 <div>
 
-<h2> Technology and Tools</h2>
+## ⚙️Technology and Tools:
 
   
 | **Category** | **Technologies / Tools** |
@@ -42,17 +42,19 @@
 
 ---
 
+  <!-- Github Stats -->
 
-<!-- Connect With Me -->
+## 📊 GitHub Stats:
+| GitHub Stats | Streak Stats | Top Languages |
+|-------------|-------------|---------------|
+| ![](https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&theme=dark&hide_border=false&include_all_commits=true&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=AshiqurRahmanAshik&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqurRahmanAshik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) |
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
 
+
+---
+  <!-- Contract Information -->
 <!-- Social icons -->
-## How to reach me:
+## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashiqur-rahman-ashik/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiqurrahmanashik111@gmail.com)
