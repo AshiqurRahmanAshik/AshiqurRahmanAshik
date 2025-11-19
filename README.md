@@ -21,7 +21,15 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://i.ibb.co/Q3TbY0Y3/MD-Ashiqur-Rahman-Ashik-banner.png" alt="Banner" height="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh0bGU3aTh4Y2ZlMGVkNmVjYXpmNHZzZnJ1MXlnbmJxdDV4ejR1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYGFrAWkxDJBKACKwv/giphy.gif" alt="GIF" height="200">
+</p>
 
+
+
+
+---
   <!-- Technology and Tools -->
 <div>
 
