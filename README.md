@@ -24,7 +24,7 @@
 <p>
  
   
-   <img src="https://i.ibb.co/Q3TbY0Y3/MD-Ashiqur-Rahman-Ashik-banner.png" alt="Banner" height="200">
+   <img src="https://i.ibb.co/Q3TbY0Y3/MD-Ashiqur-Rahman-Ashik-banner.png" alt="Banner">
 </p>
 
 
