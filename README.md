@@ -25,7 +25,8 @@
  
   
    <img src="https://i.ibb.co/Q3TbY0Y3/MD-Ashiqur-Rahman-Ashik-banner.png" alt="Banner">
-</p>
+</p><img width="1584" height="396" alt="MD  Ashiqur Rahman Ashik banner " src="https://github.com/user-attachments/assets/c0f26a5b-1ba4-4ebf-b7e7-8257b7a07b81" />
+
 
 
 
