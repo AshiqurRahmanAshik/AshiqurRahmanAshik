@@ -53,7 +53,7 @@
 
 ## Github Streak:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AshiqurRahmanAshik)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=dark)](https://git.io/streak-stats)
 
 
 
