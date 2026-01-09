@@ -51,15 +51,26 @@
 
 ---
 
-## GitHub Streak
+### 🔥 GitHub Streak
 <p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=default" />
-    <img src="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=default" alt="Ashiqur's GitHub Streak" />
-</picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiqurRahmanAshik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqurRahmanAshik&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 
 
