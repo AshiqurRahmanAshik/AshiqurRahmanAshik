@@ -52,7 +52,10 @@
 ---
 
 ## 🔥 GitHub Streak
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AshiqurRahmanAshik" alt="GitHub Streak" /></a>
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AshiqurRahmanAshik)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AshiqurRahmanAshik&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AshiqurRahmanAshik&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AshiqurRahmanAshik&type=top-repos)
 ---
 
 
