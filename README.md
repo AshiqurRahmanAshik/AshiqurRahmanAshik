@@ -52,9 +52,13 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AshiqurRahmanAshik&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqurRahmanAshik&theme=tokyonight&hide_border=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqurRahmanAshik&layout=compact&theme=tokyonight)
+
 
 ---
 
