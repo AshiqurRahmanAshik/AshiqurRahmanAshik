@@ -54,8 +54,10 @@
 ## GitHub Streak
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshiqurRahmanAshik&theme=dark)](https://git.io/streak-stats)
-  -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
 </p>
 
 
