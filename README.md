@@ -52,16 +52,13 @@
 ---
 
 ## GitHub Streak
-
 <p align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=default" alt="Ashiqur's GitHub Streak" />
 </picture>
 </p>
-
-
-
 
 
 
