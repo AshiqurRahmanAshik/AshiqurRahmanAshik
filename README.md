@@ -53,7 +53,7 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshiqurRahmanAshik&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&show_icons=true&theme=radical)
 
 
 
