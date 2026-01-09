@@ -52,8 +52,7 @@
 ---
 
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshiqurRahmanAshik)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshiqurRahmanAshik)](https://git.io/streak-stats)
 ---
 
 
