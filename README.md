@@ -54,7 +54,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshiqurRahmanAshik)](https://git.io/streak-stats)
 
 ---
 
