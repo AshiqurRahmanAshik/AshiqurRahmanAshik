@@ -53,11 +53,12 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&show_icons=true&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=AshiqurRahmanAshik&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqurRahmanAshik&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqurRahmanAshik&layout=compact&theme=tokyonight" />
+
 
 
 ---
