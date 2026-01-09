@@ -55,7 +55,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshiqurRahmanAshik&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/AshiqurRahmanAshik&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
