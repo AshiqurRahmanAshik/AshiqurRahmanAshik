@@ -51,15 +51,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshiqurRahmanAshik&show_icons=true&theme=radical)
-
-
-
----
-
-
 
   <!-- Contract Information -->
 <!-- Social icons -->
