@@ -51,6 +51,21 @@
 
 ---
 
+<!-- github language -->
+  <div align="center">
+<picture >
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AshiqurRahmanAshik&theme=tokyonight&hide_border=true&hide=glsl" />
+      <img
+        alt="Top Language"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiqurRahmanAshik&theme=graywhite&hide_border=true&bg_color=e6e7ed&hide=glsl" />
+    </picture>
+  </div>
+
+
+---
+
 
   <!-- Contract Information -->
 <!-- Social icons -->
